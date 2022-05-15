@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year.
+I am a rising 5th year MS student at UC Berkeley interested in robotics, automation, and machine learning.
